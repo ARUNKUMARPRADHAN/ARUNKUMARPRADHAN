@@ -26,7 +26,7 @@
 <h4 align="left">
 ### About Me<br><br>Hi, I'm [Arun], a passionate Network Engineer by profession and a content creator in my free time. When I'm not working on network configurations, you can find me exploring the stunning landscapes of New Zealand and hiking its beautiful trails. <br><br><br>
 ### What I Share<br>📷 Documenting my travels and adventures  <br>🌲 Hiking and capturing the beauty of New Zealand  <br>🎥 Sharing my experiences as an Indian living in New Zealand
-check my protfolio <a href="https://protfolio.netlify.app" target="_blank">
+check my protfolio <a href="protfol.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio button" />
   </a>
 </h4>
